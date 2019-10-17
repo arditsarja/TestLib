@@ -39,6 +39,8 @@ public class Main {
         System.load(directory + "/Linux-bin/libsiae/libsiae.so");
         System.loadLibrary("libSiae.so");
 
+        //ardit test
+
 
 //        System.out.println("LibSIA.getInstance().Finalize() = " + LibSIAe.getInstance().isCardIn(0));
 //        String pin = "13633854";
